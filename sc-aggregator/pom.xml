@@ -1,0 +1,16 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.alardear.sc</groupId>
+  <artifactId>sc-aggregator</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <packaging>pom</packaging>
+  <name>Spelling Correction</name>
+  <modules>
+  	<module>../sc-parent</module>
+	<module>../sc-framwork</module>
+  	<module>../sc-persist</module>
+  	<module>../sc-service</module>
+  	<module>../sc-engine</module>
+  </modules>
+  <build/>
+</project>
