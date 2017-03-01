@@ -8,5 +8,8 @@ A Spelling Correction Server By Continue Improve
 3.引擎的监控可视化,以及精度的反馈训练。
 ## others
 可能这是一件闭门重复造轮子的事情;
+
 可能这是一个出于学习兴趣的小项目;
+
 欢迎提供建议和意见,谢谢！
+
